@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quizbowl</string>
+    <string name="demo1">NOTE TO PLAYERS: Description acceptable One of these things used its APXS spectrometer to analyze "Barnacle Bill." An object accompanying one of these things was granted an “operations demonstration phase concluding at Wright Brothers Field. Rosalind Franklin is a planned one of these things. One of these things was a part of the Tianwen-1 mission and named (*) Zhurong. InSight attempted to track one of these things. A 2021 mission involving these things landed in Jezero Crater and underwent the "Seven Minutes of Terror." Some of these things descend using the"sky crane" system. One of these crafts accompanies the helicopter Ingenuity. For 10 points, name these space exploration crafts, including Perseverance and Curiosity, on the red planet.
+ANSWER: Mars rovers [accept anything mentioning rovers on Mars; prompt on rovers; prompt on Mars missions with "What vehicle was being brought to Mars?"; do NOT accept or prompt on answers mentioning "landers"]</string>
+</resources>
